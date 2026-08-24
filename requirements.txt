@@ -5,3 +5,4 @@ pandas
 google-generativeai
 httpx
 beautifulsoup4
+crewai[google-genai]
